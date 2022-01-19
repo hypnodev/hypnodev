@@ -19,10 +19,9 @@ I'm a **Code Enthusiast**, a **Laravel addicted** and a fanatic of **TDD**, **SO
 | MVC & OOP patterns                                         | GraphQL    |
 | Git w/ Gitflow                                             | Redis      |
 | PHP w/ Laravel                                             | Docker     |
-| Javascript w/ Express, Hapijs, Loopback, Meteor, Nestjs    | Kubernetes |
+| Javascript w/ Express, Loopback, Meteor, Nestjs            | Kubernetes |
 | SQL & NoSQL w/ MySQL, Postgres, MongoDB                    | LEMP       |
-| Proudly CentOS user                                        | AWS        |
-| RabbitMQ                                                                |
+| RabbitMQ                                                   | AWS        |
 
 #### My Projects
 - Larapal (http://github.com/hypnodev/larapal)
